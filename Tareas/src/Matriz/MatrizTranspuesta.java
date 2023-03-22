@@ -1,3 +1,10 @@
+/**************************************
+* Autor: Kevin Arnold Cortés Pacheco*
+* Fecha Creación: 22/03/23 *
+* Fecha Actualización: 22/03/23 *
+* Descripción: Creacion de una matriz y se imprime la transpuesta *
+**************************************/
+
 package Matriz;
 
 public class MatrizTranspuesta {
