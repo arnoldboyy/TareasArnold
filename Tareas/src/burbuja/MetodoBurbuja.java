@@ -1,3 +1,12 @@
+/************************************************
+* Autor: Kevin Arnold Cortés Pacheco*           *
+* Fecha Creación: 22/03/23                      *
+* Fecha Actualización: 22/03/23                 *
+* Descripción: Implementación del método burbuja*
+************************************************/
+
+
+
 package burbuja;
 
 import java.awt.Color;
